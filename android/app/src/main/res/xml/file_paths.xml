@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Define cache directories to store temporary captured images securely -->
+    <cache-path name="shared_images" path="." />
+    <external-cache-path name="external_shared_images" path="." />
+</paths>

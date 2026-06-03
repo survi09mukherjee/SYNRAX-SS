@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SYNRAX SS</string>
+    <string name="title_login">Login to SYNRAX</string>
+    <string name="title_signup">Create an Account</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="action_login">Log In</string>
+    <string name="action_signup">Sign Up</string>
+    <string name="action_logout">Log Out</string>
+    <string name="nav_to_signup">Don\'t have an account? Sign Up</string>
+    <string name="nav_to_login">Already have an account? Log In</string>
+</resources>

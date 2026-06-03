@@ -151,5 +151,4 @@ Follow these instructions to connect and run both services.
 This project was designed and developed by:
 * **Survi Mukherjee** - [LinkedIn Profile](https://www.linkedin.com/in/placeholder-survi)
 * **Subhajit Ghosh** - [LinkedIn Profile](https://www.linkedin.com/in/placeholder-subhajit)
-
 Feel free to reach out to the authors for any collaboration or feedback!

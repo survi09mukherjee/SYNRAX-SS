@@ -31,7 +31,6 @@ sequenceDiagram
     Server->>Server: Run clustering engine (scikit-learn) to group faces
     Server->>DB: Write Media details and associations
     Server-->>AppA: 201 Created (Media response)
-    deactivate AppA
     Server->>AppB: Broadcast via WebSocket (Room WS connection)
     deactivate Server
     AppB-->>UserB: Real-time UI refresh (Appends image to top of grid)

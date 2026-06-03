@@ -14,7 +14,7 @@ Integrated AI services run on the backend to automatically detect faces in uploa
 
 The project consists of a Python FastAPI backend acting as the central coordination API, and a native Java Android frontend application.
 
-```mermaid
+```
 sequenceDiagram
     actor UserA as Participant A (Uploader)
     participant AppA as Android Client (A)
@@ -148,6 +148,7 @@ Follow these instructions to connect and run both services.
 ## 👥 Credits & Authors
 
 This project was designed and developed by:
-* **Survi Mukherjee** - [LinkedIn Profile](https://www.linkedin.com/in/placeholder-survi)
-* **Subhajit Ghosh** - [LinkedIn Profile](https://www.linkedin.com/in/placeholder-subhajit)
+* **Survi Mukherjee** - [LinkedIn Profile](https://www.linkedin.com/in/survi-mukherjee)
+* **Subhajit Ghosh** - [LinkedIn Profile](https://www.linkedin.com/in/subhajit-ghosh-a17104348)
+---
 Feel free to reach out to the authors for any collaboration or feedback!

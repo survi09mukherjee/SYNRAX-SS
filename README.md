@@ -41,6 +41,10 @@ sequenceDiagram
 
 ## 📱 Android Frontend (Client)
 
+<p align="center">
+  <img src="android_gallery_mockup.png" alt="Android Gallery Mockup" width="280"/>
+</p>
+
 The Android client is structured using a beginner-friendly MVVM/layered architecture layout. It is optimized for low latency and high reliability under unstable network connections.
 
 ### Tech Stack & Libraries
@@ -87,6 +91,10 @@ android/app/src/main/
 ---
 
 ## ⚙️ Backend Architecture (FastAPI API)
+
+<p align="center">
+  <img src="backend_docs_mockup.png" alt="Backend API Docs Mockup" width="550"/>
+</p>
 
 The backend exposes RESTful HTTP endpoints for database state, and WebSocket connection ports for active events streaming.
 
@@ -135,3 +143,13 @@ Follow these instructions to connect and run both services.
    - `BASE_URL` is set to `http://10.0.2.2:8000/api/v1/`. (`10.0.2.2` automatically loops back to your local development machine inside standard Android emulators).
 4. Run the project on an **Android Virtual Device (AVD)** with **Google Play Services** enabled (needed for the Play Services Code Scanner overlay).
 5. Start creating and sharing media rooms!
+
+---
+
+## 👥 Credits & Authors
+
+This project was designed and developed by:
+* **Survi Mukherjee** - [LinkedIn Profile](https://www.linkedin.com/in/placeholder-survi)
+* **Subhajit Ghosh** - [LinkedIn Profile](https://www.linkedin.com/in/placeholder-subhajit)
+
+Feel free to reach out to the authors for any collaboration or feedback!
